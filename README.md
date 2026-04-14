@@ -26,6 +26,7 @@ A diferencia de JSONPlaceholder, que maneja estructuras muy planas, con PokéAPI
 ## Capturas de mis Peticiones y Tests en Postman
 
 ### Request 1: GET Listar todos los Pokémon (Paginación):
+{
 "count": 1350,
     "next": "https://pokeapi.co/api/v2/pokemon?offset=20&limit=20",
     "previous": null,
