@@ -26,39 +26,16 @@ A diferencia de JSONPlaceholder, que maneja estructuras muy planas, con PokéAPI
 ## Capturas de mis Peticiones y Tests en Postman
 
 ### Request 1: GET Listar todos los Pokémon (Paginación):
-{
-    "count": 1350,
-    "next": "https://pokeapi.co/api/v2/pokemon?offset=20&limit=20",
-    "previous": null,
-    "results": [
-        { "name": "bulbasaur", "url": "https://pokeapi.co/api/v2/pokemon/1/" },
-        { "name": "ivysaur", "url": "https://pokeapi.co/api/v2/pokemon/2/" },
-        { "name": "venusaur", "url": "https://pokeapi.co/api/v2/pokemon/3/" },
-        { "name": "charmander", "url": "https://pokeapi.co/api/v2/pokemon/4/" },
-        { "name": "charmeleon", "url": "https://pokeapi.co/api/v2/pokemon/5/" },
-        { "name": "charizard", "url": "https://pokeapi.co/api/v2/pokemon/6/" },
-        { "name": "squirtle", "url": "https://pokeapi.co/api/v2/pokemon/7/" },
-        { "name": "wartortle", "url": "https://pokeapi.co/api/v2/pokemon/8/" },
-        { "name": "blastoise", "url": "https://pokeapi.co/api/v2/pokemon/9/" },
-        { "name": "caterpie", "url": "https://pokeapi.co/api/v2/pokemon/10/" },
-        { "name": "metapod", "url": "https://pokeapi.co/api/v2/pokemon/11/" },
-        { "name": "butterfree", "url": "https://pokeapi.co/api/v2/pokemon/12/" },
-        { "name": "weedle", "url": "https://pokeapi.co/api/v2/pokemon/13/" },
-        { "name": "kakuna", "url": "https://pokeapi.co/api/v2/pokemon/14/" },
-        { "name": "beedrill", "url": "https://pokeapi.co/api/v2/pokemon/15/" },
-        { "name": "pidgey", "url": "https://pokeapi.co/api/v2/pokemon/16/" },
-        { "name": "pidgeotto", "url": "https://pokeapi.co/api/v2/pokemon/17/" },
-        { "name": "pidgeot", "url": "https://pokeapi.co/api/v2/pokemon/18/" },
-        { "name": "rattata", "url": "https://pokeapi.co/api/v2/pokemon/19/" },
-        { "name": "raticate", "url": "https://pokeapi.co/api/v2/pokemon/20/" }
-    ]
-}
+<img width="1430" height="1002" alt="image" src="https://github.com/user-attachments/assets/97186c58-eca3-4734-bca3-ea29d513fd97" />
 
 ### Request 2: GET Obtener Pokémon por Nombre (Pikachu):
+<img width="1017" height="956" alt="image" src="https://github.com/user-attachments/assets/90308d7a-7af9-41f5-bd64-3900f43c06e8" />
 
+### Request 3: GET Obtener Habilidad por ID:
+<img width="1431" height="939" alt="image" src="https://github.com/user-attachments/assets/5ffc612a-d570-4611-98f1-8651bde09888" />
 
-### Request 3: GET Obtener Habilidad por ID
+### Request 4: GET Filtrar Pokémon con límite bajo:
+<img width="1281" height="970" alt="image" src="https://github.com/user-attachments/assets/4e60c1dc-cc3e-40ff-98c8-ba2001d93108" />
 
-### Request 4: GET Filtrar Pokémon con límite bajo
-
-### Request 5: GET Obtener Tipo de Pokémon (Fire)
+### Request 5: GET Obtener Tipo de Pokémon (Fire):
+<img width="1362" height="941" alt="image" src="https://github.com/user-attachments/assets/736cb668-c21e-44f6-bbf2-d177821e67a2" />
