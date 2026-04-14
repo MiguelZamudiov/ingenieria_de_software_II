@@ -1,5 +1,5 @@
 # ingenieria_de_software_II
 
-        NOMBRE                       CORREO
+        NOMBRE                           CORREO
 
-Miguel Angel Zamudio Villa - mizamudiovunal.edu.co
+Miguel Angel Zamudio Villa         mizamudiovunal.edu.co
