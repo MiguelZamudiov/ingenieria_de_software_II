@@ -2,4 +2,4 @@
 
         NOMBRE                        CORREO
 
-Miguel Angel Zamudio Villa     mizamudiovunal.edu.co
+Miguel Angel Zamudio Villa   |  mizamudiovunal.edu.co
