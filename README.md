@@ -46,27 +46,27 @@ Las pruebas realizadas fueron:
 ## Evidencias Parte 1
 
 ### Levantar servidor
-![Levantar servidor](evidencias/parte1_levantar_servidor.png)
+<img width="677" height="242" alt="parte1_levantar_servidor" src="https://github.com/user-attachments/assets/1fd1d0a2-a2a2-4b54-a6b9-855f00da7443" />
 
 ---
 
 ### Registrar usuario
-![Registrar usuario](evidencias/parte1_registrar_usuario.png)
+<img width="931" height="173" alt="parte1_registrar_usuario" src="https://github.com/user-attachments/assets/805ecab9-220b-43d2-a30c-630d18a06099" />
 
 ---
 
 ### Login y token
-![Login y token](evidencias/parte1_hacer_login_guardar_token.png)
+<img width="932" height="177" alt="parte1_hacer_login_guardar_token" src="https://github.com/user-attachments/assets/6bb2df7d-7dac-4f11-a77d-f1fb48398670" />
 
 ---
 
 ### Consulta de tareas con y sin token
-![Consulta tareas](evidencias/parte1_consultar_tareas_con_y_sin_token.png)
+<img width="921" height="401" alt="parte1_consultar_tareas_con_y_sin_token" src="https://github.com/user-attachments/assets/1b2a617a-059f-4922-86e8-54dd710827df" />
 
 ---
 
 ### Crear tarea
-![Crear tarea](evidencias/parte1_crear_tarea.png)
+<img width="927" height="298" alt="parte1_crear_tarea" src="https://github.com/user-attachments/assets/2e922846-3105-46da-b616-eecb3b6ec560" />
 
 ---
 
@@ -94,7 +94,8 @@ Las pruebas realizadas fueron:
 ## Evidencias Parte 2
 
 ### Levantar versión con solución
-![Servidor solución](evidencias/parte2_se_levanta_la_version_con_solucion.png)
+<img width="765" height="122" alt="parte2_se_levanta_la_version_con_solucion" src="https://github.com/user-attachments/assets/05624958-6d86-4cee-8cdd-3e6c2d809d2e" />
+
 
 ---
 
