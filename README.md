@@ -96,48 +96,33 @@ Las pruebas realizadas fueron:
 ### Levantar versión con solución
 <img width="765" height="122" alt="parte2_se_levanta_la_version_con_solucion" src="https://github.com/user-attachments/assets/05624958-6d86-4cee-8cdd-3e6c2d809d2e" />
 
-
 ---
 
 ### Registro de usuario
-![Registro usuario](evidencias/parte2_register.png)
+<img width="1080" height="602" alt="WhatsApp Image 2026-05-15 at 8 55 22 AM (1)" src="https://github.com/user-attachments/assets/a95ca7a9-eeb0-4113-b3d0-56a6cf2f0450" />
 
 ---
 
 ### Login y obtención del token
-![Login token](evidencias/parte2_login_token.png)
+<img width="1080" height="576" alt="WhatsApp Image 2026-05-15 at 8 55 22 AM (2)" src="https://github.com/user-attachments/assets/6357d471-84cd-4487-aa21-034ab7eafa94" />
 
 ---
 
 ### Crear tarea
-![Crear tarea](evidencias/parte2_crear_tarea.png)
+<img width="1080" height="826" alt="WhatsApp Image 2026-05-15 at 8 55 22 AM (3)" src="https://github.com/user-attachments/assets/98e10142-d313-436f-b77a-4b6c0329583d" />
 
 ---
 
 ### Actualizar tarea con PUT
-![PUT](evidencias/parte2_put.png)
+<img width="1080" height="794" alt="WhatsApp Image 2026-05-15 at 8 55 22 AM (4)" src="https://github.com/user-attachments/assets/0cec9077-cfc4-4a99-b848-4fddc869c92a" />
 
 ---
-
 ### Eliminar tarea con DELETE
-![DELETE](evidencias/parte2_delete.png)
+<img width="1080" height="498" alt="WhatsApp Image 2026-05-15 at 8 55 22 AM (5)" src="https://github.com/user-attachments/assets/226cd523-e007-4cd7-b334-b911e9785448" />
 
 ---
 
 ### Conexión SSH desde el celular
-![SSH conexión](evidencias/parte2_ssh_conexion.png)
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-15 at 8 55 22 AM" src="https://github.com/user-attachments/assets/7e3bccb4-0542-40b6-9eb4-82177e9a1a5e" />
 
 ---
-
-### Ejecución remota de comandos
-![SSH comandos](evidencias/parte2_ssh_comandos.png)
-
----
-
-# Conclusiones
-
-Con este laboratorio se pudo entender mejor cómo funciona una API protegida con JWT y cómo se manejan endpoints autenticados mediante tokens.
-
-También se realizaron pruebas con los métodos GET, POST, PUT y DELETE, validando el flujo completo de autenticación y manejo de tareas.
-
-Finalmente, se logró establecer una conexión SSH desde otro dispositivo y ejecutar los comandos remotamente, comprobando el funcionamiento de la API en red local.
